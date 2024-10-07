@@ -12,6 +12,8 @@ This project is a command-line application that dynamically generates a professi
 
 -[Screenshot](#screenshot)
 
+-[Video]()
+
 -[Repo](#repo)
 
 -[Credits](#credits)
@@ -48,6 +50,10 @@ Follow the prompts to input your project details. A README.md file will be gener
 ![alt text](./assets/images/Screenshot%202.png)
 
 ---
+
+## Video
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1U5IrDDpDtFCxdYcPkgPK9eeCJ9EEkkpL/view)
 
 ## **Repo:**
 
