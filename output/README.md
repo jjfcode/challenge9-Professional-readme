@@ -1,4 +1,4 @@
-# Create a Professional Readme
+# Professional Readme
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -17,9 +17,9 @@
 
 
   ## Installation
-
+  ```
   npm i
-
+  ```
   ## Usage
 
   N/A
@@ -38,4 +38,4 @@
 
   ## Questions
 
- If you have any questions about the repo, open an issue or contact me directly at [johnferlito73@gmail.com](mailto:johnferlito73@gmail.com). You can find more of my work at [GitHub](https://github.com/jjfcode).
+ If you have any questions about the repo, open an issue or contact me directly at [johnferlito73@gmail.com](mailto:johnferlito73@gmail.com). You can find more of my work at [GitHub](https://github.com/JJFCODE).
