@@ -12,7 +12,7 @@ This project is a command-line application that dynamically generates a professi
 
 -[Screenshot](#screenshot)
 
--[Video]()
+-[Video](#video)
 
 -[Repo](#repo)
 
